@@ -8,8 +8,14 @@ Introduction
 
 ## Purpose
 
+More text
+
 ## Deployment
 
+More text
+
 ## How to contribute
+
+Nuovo
 
 
