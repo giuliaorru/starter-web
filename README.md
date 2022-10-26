@@ -4,6 +4,8 @@ Using Git and Github together
 
 ## Introduction
 
+Introduction
+
 ## Purpose
 
 ## Deployment
